@@ -1,4 +1,4 @@
-package com.mustafaakurt.springcore.common;
+package com.mustafaakurt.util;
 
 public interface Coach {
     String getDailyWorkout();
